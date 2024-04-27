@@ -17,7 +17,7 @@ Desenvolvimento em:
 
 Contato:
 
-🔗[Linkedin](https://www.linkedin.com/in/let%C3%ADcia-carpes-b34aa1302/)
+🔗 [Linkedin](https://www.linkedin.com/in/let%C3%ADcia-carpes-b34aa1302/)
 
 
 
