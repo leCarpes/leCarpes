@@ -22,11 +22,9 @@ You can click the Preview link to take a look at your changes.
   </tr>
 </table><br/>
 
-• Aprendendo no Senai Ipiranga Auotmobilística \ Linguagens & Tecnologias: `JavaScript`, `CSS`, `HTML`, `Git`
+Aprendendo no Senai Ipiranga Auotmobilística \ Linguagens & Tecnologias: `JavaScript`, `CSS`, `HTML`, `Git`
   <br/> 
-
-  ## O que estou aprendendo:
-
+  
 <div align="center" style="display: inline_block"><br/>
     <img align="center" alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
