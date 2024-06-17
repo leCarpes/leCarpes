@@ -32,7 +32,7 @@ Aprendendo no Senai Ipiranga Auotmobilística \ Linguagens & Tecnologias: `JavaS
     <img align="center" alt="" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
-### Contato: 
+                                                                  ### Contato
 
  <div align="center"> 
   <a align="center" href="https://www.linkedin.com/in/let%C3%ADcia-carpes-b34aa1302/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
