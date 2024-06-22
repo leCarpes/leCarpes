@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
   </tr>
 </table><br/>
 
-Aprendendo no Senai Ipiranga Auotmobilística \ Linguagens & Tecnologias: `JavaScript`, `CSS`, `HTML`, `Git`
+Aprendendo no Senai Ipiranga Automobilística \ Linguagens & Tecnologias: `JavaScript`, `CSS`, `HTML`, `Git`
   <br/> 
   
 <div align="center" style="display: inline_block"><br/>
