@@ -7,8 +7,8 @@ You can click the Preview link to take a look at your changes.
 
 👋 Meu nome é Letícia Carpes
 
-⚡ Estudante - 3º ano do Ensino Médio;
-⚡ Cursando - Programação Front-End;
+⚡ Estudante
+⚡ Programação Front-End;
 
 <table>
   <tr>
