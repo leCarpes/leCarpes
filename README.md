@@ -8,6 +8,7 @@ You can click the Preview link to take a look at your changes.
 👋 Meu nome é Letícia Carpes
 
 ⚡ Estudante
+⚡ Desenvolvimento de Sistemas
 ⚡ Programação Front-End;
 
 <table>
