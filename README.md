@@ -5,11 +5,11 @@ leCarpes/leCarpes is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-👋 Meu nome é Letícia Carpes
+👋 Meu nome é Letícia Carpes de oliveira
 
-⚡ Estudante
-⚡ Desenvolvimento de Sistemas
-⚡ Programação Front-End;
+⚡ Estudante |
+⚡ Desenvolvimento de Sistemas |
+⚡ Programação Front-End |
 
 <table>
   <tr>
@@ -36,7 +36,7 @@ Linguagens & Tecnologias: `JavaScript`, `CSS`, `HTML`, `Git`
 ### Contato:
 
  <div align="left"> 
-  <a align="center" href="https://www.linkedin.com/in/let%C3%ADcia-carpes-b34aa1302/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a align="center" href="https://www.linkedin.com/in/let%C3%ADcia-carpes-de-oliveira-b34aa1302/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
 
 
